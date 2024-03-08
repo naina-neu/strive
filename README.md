@@ -27,13 +27,6 @@ Clone the project
 * enable developer mode
 * load unpacked, select the folder `extension` 
 
-
-##  Team
-* [Anirudh Voruganti](voruganti.a@northeastern.edu) - 001092732
-* [Jayesh Khattar](khattar.j@northeastern.edu) - 001568947
-* [Naina Rajan](rajan.nai@northeastern.edu) - 002922398
-* [Thomas John](john.th@northeastern.edu) - 002933800
-
 ## Project Features(User Stories)
 *  ### 1. User Authentication
     * 1.1 Login
